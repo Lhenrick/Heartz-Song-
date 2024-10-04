@@ -1,0 +1,14 @@
+D:\PC\Estudo\Alura\Programacao\C#\musicalProject\FirstProject\FirstProject\bin\Debug\net8.0\FirstProject.exe
+D:\PC\Estudo\Alura\Programacao\C#\musicalProject\FirstProject\FirstProject\bin\Debug\net8.0\FirstProject.deps.json
+D:\PC\Estudo\Alura\Programacao\C#\musicalProject\FirstProject\FirstProject\bin\Debug\net8.0\FirstProject.runtimeconfig.json
+D:\PC\Estudo\Alura\Programacao\C#\musicalProject\FirstProject\FirstProject\bin\Debug\net8.0\FirstProject.dll
+D:\PC\Estudo\Alura\Programacao\C#\musicalProject\FirstProject\FirstProject\bin\Debug\net8.0\FirstProject.pdb
+D:\PC\Estudo\Alura\Programacao\C#\musicalProject\FirstProject\FirstProject\obj\Debug\net8.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC\Estudo\Alura\Programacao\C#\musicalProject\FirstProject\FirstProject\obj\Debug\net8.0\FirstProject.AssemblyInfoInputs.cache
+D:\PC\Estudo\Alura\Programacao\C#\musicalProject\FirstProject\FirstProject\obj\Debug\net8.0\FirstProject.AssemblyInfo.cs
+D:\PC\Estudo\Alura\Programacao\C#\musicalProject\FirstProject\FirstProject\obj\Debug\net8.0\FirstProject.csproj.CoreCompileInputs.cache
+D:\PC\Estudo\Alura\Programacao\C#\musicalProject\FirstProject\FirstProject\obj\Debug\net8.0\FirstProject.dll
+D:\PC\Estudo\Alura\Programacao\C#\musicalProject\FirstProject\FirstProject\obj\Debug\net8.0\refint\FirstProject.dll
+D:\PC\Estudo\Alura\Programacao\C#\musicalProject\FirstProject\FirstProject\obj\Debug\net8.0\FirstProject.pdb
+D:\PC\Estudo\Alura\Programacao\C#\musicalProject\FirstProject\FirstProject\obj\Debug\net8.0\FirstProject.genruntimeconfig.cache
+D:\PC\Estudo\Alura\Programacao\C#\musicalProject\FirstProject\FirstProject\obj\Debug\net8.0\ref\FirstProject.dll
